@@ -1,0 +1,46 @@
+﻿input, select, textarea {
+    font-family: '仿宋';
+    font-size: 18px;
+    line-height: 40px;
+    width: 80%;
+    font-weight: bold;
+    height:30px;
+}
+
+h3{
+    font-size: 30px;
+    font-family: '华文行楷';
+    color: #27674F;
+}
+
+
+.col-sm-2 {
+    width:20%;
+}
+
+.form-horizontal .control-label {
+    padding-top: 2px;
+    margin-bottom: 0;
+    text-align: right;
+}
+
+div[class="pull-left"]{
+    padding-top: 260px;
+    padding-left:500px;
+}
+
+div[class="pull-right"]{
+     padding-top:260px;
+     padding-right:700px;
+}
+
+div[class="row clearfix"]{
+    padding-left: 700px;
+    padding-right:750px;
+    padding-top: 400px;
+}
+div[class="mktj"]{
+     padding-left: 700px;
+     padding-right:750px;
+     padding-top: 400px;
+}
